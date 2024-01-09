@@ -2,25 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>Mechatronics Research </b> @<a href='www.asml.com'>ASML</a> US <b><span>&#183;</span> PhD</b> from <a href='www.cmu.edu'>Carnegie Mellon University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a research engineer at ASML, my primarily focus is creating technologies aimed at increasing throughput while lowering costs and energy usage for litho tools (also known as front-end semiconductor technology). This directly impacts the microchip production costs and enhances transistor density per unit area. My work often entails requirements management, stakeholder management, mechanical design (leveraging FEA), material selection and prototyping. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to my current position, I had the privilege of working on back-end semiconductor technologies, particularly in the design and qualification of ultrasonic transducers for semiconductor ball-bonding and industrial wedge-bonding applications. This experience enriched my skillset in FEA-based design, PZT-material characterization, bode analysis, prototype development and testing. In addition, I had adeptly navigated internal and external customer esclations, devising actionable solutions that were seamlessly integrated into high-volume production lines. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I earned a Ph.D. in Mechanical Engineering from Carnegie Mellon University (CMU), with an emphasis on increasing the precision and reproducibility of a high-speed micro-scale manufacturing process (<a href='https://kilthub.cmu.edu/articles/thesis/Micromachining_Metrology_Measurement_and_Analysis_of_Dynamic_Tool-tip_Trajectory_when_using_Ultra-High-Speed_Spindles/6720590'>thesis link</a>). My research revolved around the meticulous study of ultra-high-speed (UHS) spindles (used for processes such as micro-milling and micro-drilling) under both quasi-static and dynamic conditions. A brief summary of my work has been published as an article in the esteemed <a href='https://www.cmmmagazine.com/cmm-articles/improving-accuracy-and-repeatability-in-high-speed-micromach/'>CMM magazine</a>. 
